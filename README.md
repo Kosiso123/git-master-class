@@ -18,10 +18,10 @@ ___
 **GIT FETCH**: Git fetch basically imports the commits to local branches so as to keep up-to-date that what everybody is working on.The git fetch command downloads commits, files, and refs from a remote repository into your local repo. Fetching is what you do when you want to see what everybody else has been working on.
                                                          *WHILE*
 **GIT PULL**:  Git Pull basically brings the local branch up-to-date with the remote copy that will also updates the other remote tracking branches.  The name “pull request” comes from the idea that you're requesting the project to “pull” changes from your forK.
-  ##**WHAT IS GIT REBASE?**:
+##**WHAT IS GIT REBASE?**:
   *Rebase is one of two Git utilities designed to integrate changes from one branch onto another. Rebasing is the process of combining or moving a sequence of commits on top of a new base commit.*
   
- ##**GIT REBASE COMMAND**
+##**GIT REBASE COMMAND**
 | GIT BASE <rebase>     |Performs the standard rebase     |
 |-----------------------|---------------------------------|
 | git rebase -- x       |This executes a command line shell script for each marked commit during playback.
