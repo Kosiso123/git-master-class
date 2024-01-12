@@ -4,13 +4,15 @@ ___
 *A version control system, or VCS, tracks the history of changes as people and teams collaborate on projects together. As developers make changes to the project, any earlier version of the project can be recovered at any time.You can use the versions property within a file's frontmatter to define which products an article will appear for.*
 ___  
 # **DIFFERENT BETWEEN GIT AND GITHUB**  
-**Git**: is a distributed version control system for tracking changes in source code during software development. It is designed for coordinating work among programmers, but it can be used to track changes in any set of files. Its goals include speed, data integrity, and support for distributed, non-linear workflows
-                                                          *WHILE*   
-**GITHUB**: GitHub is a web-based Git repository hosting service, which offers all of the distributed revision control and source code management (SCM) functionality of Git as well as adding its own features.  GitHub is a web-based Git repository hosting and it is a version control system to manage source code history. service, which offers all of the distributed revision control and source code management (SCM) functionality of Git as well as adding its own features.   
-**GIT**: Git is a software and a command tool which can be installed locally on a system. It focuses on version control and code sharing and it is a version control system to manage source code history.  
-                                                           *WHILE*    
-**GITHUB**: It is a service and graphical interface. Github is hosted on web and is maintained by microsoft. it focused on centralized source code hosting. GitHub is a hosting service for Git repositories.  
-___
+|Git                                                              |Github                                                                                                 |  
+|-----------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|  
+|is a distributed version control system for tracking changes in source code during software development. It is designed for coordinating work among programmers, but it can be used to track changes in any set of files. Its goals include speed, data integrity, and support for distributed, non-linear workflows.|GitHub is a web-based Git repository hosting service, which offers all of the distributed revision control and source code management (SCM) functionality of Git as well as adding its own features.  GitHub is a web-based Git repository hosting and it is a version control system to manage source code history. service, which offers all of the distributed revision control and source code management (SCM) functionality of Git as well as adding its own features.|Git is a software and a command tool which can be installed locally on a system. It focuses on version control and code sharing and it is a version control system to manage source code history.|GITHUB It is a service and graphical interface. Github is hosted on web and is maintained by microsoft. it focused on centralized source code hosting. GitHub is a hosting service for Git repositories.         
+
+
+                                                          
+
+
+
 ##**THREE OTHER GITHUB ALTERNATIVES ARE**:  
 * BITBUCKET:Bitbucket is a Git-based source code repository hosting service owned by Atlassian.
 * SOURCEFORGE:SourceForge is a web service that offers software consumers a centralized online location to control and manage open-source software projects and research business software
