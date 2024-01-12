@@ -4,8 +4,8 @@ ___
 *A version control system, or VCS, tracks the history of changes as people and teams collaborate on projects together. As developers make changes to the project, any earlier version of the project can be recovered at any time.You can use the versions property within a file's frontmatter to define which products an article will appear for.*
 ___  
 # **DIFFERENT BETWEEN GIT AND GITHUB**  
-**Git**: is a distributed version control system for tracking changes in source code during software development. It is designed for coordinating work among programmers, but it can be used to track changes in any set of files. Its goals include speed, data integrity, and support for distributed, non-linear workflows.  
-                                                            *WHILE*   
+**Git**: is a distributed version control system for tracking changes in source code during software development. It is designed for coordinating work among programmers, but it can be used to track changes in any set of files. Its goals include speed, data integrity, and support for distributed, non-linear workflows
+                                                          *WHILE*   
 **GITHUB**: GitHub is a web-based Git repository hosting service, which offers all of the distributed revision control and source code management (SCM) functionality of Git as well as adding its own features.  GitHub is a web-based Git repository hosting and it is a version control system to manage source code history. service, which offers all of the distributed revision control and source code management (SCM) functionality of Git as well as adding its own features.   
 **GIT**: Git is a software and a command tool which can be installed locally on a system. It focuses on version control and code sharing and it is a version control system to manage source code history.  
                                                            *WHILE*    
@@ -20,7 +20,8 @@ ___
 **GIT PULL**:  Git Pull basically brings the local branch up-to-date with the remote copy that will also updates the other remote tracking branches.  The name “pull request” comes from the idea that you're requesting the project to “pull” changes from your forK.
   ##**WHAT IS GIT REBASE?**:
   *Rebase is one of two Git utilities designed to integrate changes from one branch onto another. Rebasing is the process of combining or moving a sequence of commits on top of a new base commit.*
-  ##**GIT REBASE COMMAND**
+  
+ ##**GIT REBASE COMMAND**
 | GIT BASE <rebase>     |Performs the standard rebase     |
 |-----------------------|---------------------------------|
 | git rebase -- x       |This executes a command line shell script for each marked commit during playback.
