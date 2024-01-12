@@ -5,22 +5,22 @@ ___
 ___  
 # **DIFFERENT BETWEEN GIT AND GITHUB**  
 **Git**: is a distributed version control system for tracking changes in source code during software development. It is designed for coordinating work among programmers, but it can be used to track changes in any set of files. Its goals include speed, data integrity, and support for distributed, non-linear workflows.  
-                                                 *WHILE*  
-**GITHUB**: GitHub is a web-based Git repository hosting service, which offers all of the distributed revision control and source code management (SCM) functionality of Git as well as adding its own features.  GitHub is a web-based Git repository hosting and it is a version control system to manage source code history. service, which offers all of the distributed revision control and source code management (SCM) functionality of Git as well as adding its own features.  
+                                                            *WHILE*   
+**GITHUB**: GitHub is a web-based Git repository hosting service, which offers all of the distributed revision control and source code management (SCM) functionality of Git as well as adding its own features.  GitHub is a web-based Git repository hosting and it is a version control system to manage source code history. service, which offers all of the distributed revision control and source code management (SCM) functionality of Git as well as adding its own features.   
 **GIT**: Git is a software and a command tool which can be installed locally on a system. It focuses on version control and code sharing and it is a version control system to manage source code history.  
-                                                *WHILE*  
+                                                           *WHILE*    
 **GITHUB**: It is a service and graphical interface. Github is hosted on web and is maintained by microsoft. it focused on centralized source code hosting. GitHub is a hosting service for Git repositories.  
-##**THREE OTHER GITHUB ALTERNATIVES ARE**:
+##**THREE OTHER GITHUB ALTERNATIVES ARE**:  
 * BITBUCKET:Bitbucket is a Git-based source code repository hosting service owned by Atlassian.
 * SOURCEFORGE:SourceForge is a web service that offers software consumers a centralized online location to control and manage open-source software projects and research business software
 * APACHE ALLURA:Apache Allura is an open-source forge software for managing source code repositories, bug reports, discussions, wiki pages, blogs and more for any number of individual projects.
 ##**DIFFERENCES BETWEEN GIT FETCH AND GIT PULL**
 **GIT FETCH**: Git fetch basically imports the commits to local branches so as to keep up-to-date that what everybody is working on.The git fetch command downloads commits, files, and refs from a remote repository into your local repo. Fetching is what you do when you want to see what everybody else has been working on.
-                                                *WHILE*
+                                                         *WHILE*
 **GIT PULL**:  Git Pull basically brings the local branch up-to-date with the remote copy that will also updates the other remote tracking branches.  The name “pull request” comes from the idea that you're requesting the project to “pull” changes from your forK.
-##**WHAT IS GIT REBASE?**:
-*Rebase is one of two Git utilities designed to integrate changes from one branch onto another. Rebasing is the process of combining or moving a sequence of commits on top of a new base commit.*
-##**GIT REBASE COMMAND**  
+  ##**WHAT IS GIT REBASE?**:
+  *Rebase is one of two Git utilities designed to integrate changes from one branch onto another. Rebasing is the process of combining or moving a sequence of commits on top of a new base commit.*
+  ##**GIT REBASE COMMAND**
 | GIT BASE <rebase>     |Performs the standard rebase     |
 |-----------------------|---------------------------------|
 | git rebase -- x       |This executes a command line shell script for each marked commit during playback.
