@@ -10,6 +10,7 @@ ___
 **GIT**: Git is a software and a command tool which can be installed locally on a system. It focuses on version control and code sharing and it is a version control system to manage source code history.  
                                                            *WHILE*    
 **GITHUB**: It is a service and graphical interface. Github is hosted on web and is maintained by microsoft. it focused on centralized source code hosting. GitHub is a hosting service for Git repositories.  
+___
 ##**THREE OTHER GITHUB ALTERNATIVES ARE**:  
 * BITBUCKET:Bitbucket is a Git-based source code repository hosting service owned by Atlassian.
 * SOURCEFORGE:SourceForge is a web service that offers software consumers a centralized online location to control and manage open-source software projects and research business software
