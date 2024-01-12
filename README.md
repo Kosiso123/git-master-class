@@ -2,8 +2,8 @@
 ___
 **WHAT IS VERSION CONTROL?**
 *A version control system, or VCS, tracks the history of changes as people and teams collaborate on projects together. As developers make changes to the project, any earlier version of the project can be recovered at any time.You can use the versions property within a file's frontmatter to define which products an article will appear for.*
-**DIFFERENCES BETWEEN GIT AND GITHUB**
 ___
+**DIFFERENCES BETWEEN GIT AND GITHUB**
 **Git**: is a distributed version control system for tracking changes in source code during software development. It is designed for coordinating work among programmers, but it can be used to track changes in any set of files. Its goals include speed, data integrity, and support for distributed, non-linear workflows. 
                                     *WHILE*
 **GITHUB**: GitHub is a web-based Git repository hosting service, which offers all of the distributed revision control and source code management (SCM) functionality of Git as well as adding its own features.  GitHub is a web-based Git repository hosting and it is a version control system to manage source code history. service, which offers all of the distributed revision control and source code management (SCM) functionality of Git as well as adding its own features. 
