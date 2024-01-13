@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.me{
+    background-color: black;
+    color: white;
+    padding: 3px;
+    border-radius: 10px;
+    text-align: center;
+}
